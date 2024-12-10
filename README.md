@@ -51,6 +51,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 ## 📜 License  
 This project is licensed under the MIT License.  
 
----
-
-Replace `yourusername` in the repository URL with your GitHub username. Let me know if you'd like to customize it further!
